@@ -1,2 +1,2 @@
 # Titatic_Survival
-Prediction of Survival of Passengers in R
+#Prediction of Survival of Passengers in R
