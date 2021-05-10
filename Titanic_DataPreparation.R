@@ -99,3 +99,8 @@ index<-which(is.na(titanic$Embarked))
 titanic<-titanic[-index,]
 
 summary(titanic)
+
+# Saving the final data.frame 
+
+write.csv(titanic,"C:\\Users\\Pankaj Rana\\Documents\\GitHub\\Titatic_Survival\\PreparedData.csv", row.names=FALSE)
+          
